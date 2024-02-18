@@ -1,0 +1,39 @@
+.qr{
+    width: 325px;
+}
+.qr img{
+    width: 325px;
+    height: 325px;
+   border-radius: 15px;
+
+}
+
+.qr {
+margin: 0 auto;
+background-color: hsl(0, 0%, 100%);
+border: 15px solid white;
+   border-radius: 17px;
+   height: 497px;
+
+}
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+.qr .title{
+font-size: 20px ;
+font-weight: 700;
+text-align: center;
+color: hsl(218, 44%, 22%);
+font-family: "Outfit";
+}
+.qr p{
+    
+    
+font-size: 20px;
+font-weight: 400;
+text-align: center;
+color: hsl(220, 15%, 55%);
+font-family: "Outfit";
+
+
+}
